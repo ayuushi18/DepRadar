@@ -1,4 +1,4 @@
-DepRadar
+##DepRadar
 
 This project forecasts which popular Python packages will go quiet in the next 12 months, built
 as a lakehouse pipeline on Databricks (Spark, Delta Lake, Unity Catalog, Jobs, MLflow).
